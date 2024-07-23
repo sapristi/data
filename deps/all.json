@@ -1,21 +1,106 @@
-{
-  "name": "Z",
-  "versions": [
-    {
-      "version": [
-        1,
-        1,
-        2
-      ],
-      "href": "./Z/(1, 1, 2).json"
-    },
-    {
-      "version": [
-        2,
-        3,
-        1
-      ],
-      "href": "./Z/(2, 3, 1).json"
-    }
-  ]
-}
+[
+  {
+    "name": "A",
+    "href": "./A.json"
+  },
+  {
+    "name": "B",
+    "href": "./B.json"
+  },
+  {
+    "name": "C",
+    "href": "./C.json"
+  },
+  {
+    "name": "D",
+    "href": "./D.json"
+  },
+  {
+    "name": "E",
+    "href": "./E.json"
+  },
+  {
+    "name": "F",
+    "href": "./F.json"
+  },
+  {
+    "name": "G",
+    "href": "./G.json"
+  },
+  {
+    "name": "H",
+    "href": "./H.json"
+  },
+  {
+    "name": "I",
+    "href": "./I.json"
+  },
+  {
+    "name": "J",
+    "href": "./J.json"
+  },
+  {
+    "name": "K",
+    "href": "./K.json"
+  },
+  {
+    "name": "L",
+    "href": "./L.json"
+  },
+  {
+    "name": "M",
+    "href": "./M.json"
+  },
+  {
+    "name": "N",
+    "href": "./N.json"
+  },
+  {
+    "name": "O",
+    "href": "./O.json"
+  },
+  {
+    "name": "P",
+    "href": "./P.json"
+  },
+  {
+    "name": "Q",
+    "href": "./Q.json"
+  },
+  {
+    "name": "R",
+    "href": "./R.json"
+  },
+  {
+    "name": "S",
+    "href": "./S.json"
+  },
+  {
+    "name": "T",
+    "href": "./T.json"
+  },
+  {
+    "name": "U",
+    "href": "./U.json"
+  },
+  {
+    "name": "V",
+    "href": "./V.json"
+  },
+  {
+    "name": "W",
+    "href": "./W.json"
+  },
+  {
+    "name": "X",
+    "href": "./X.json"
+  },
+  {
+    "name": "Y",
+    "href": "./Y.json"
+  },
+  {
+    "name": "Z",
+    "href": "./Z.json"
+  }
+]
