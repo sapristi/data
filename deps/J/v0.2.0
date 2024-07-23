@@ -1,0 +1,10 @@
+{
+  "name": "J",
+  "version": "v0.2.0",
+  "dependencies": [
+    {
+      "name": "D",
+      "version": "v0.2.0"
+    }
+  ]
+}

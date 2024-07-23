@@ -1,0 +1,14 @@
+{
+  "name": "K",
+  "version": "v0.0.0",
+  "dependencies": [
+    {
+      "name": "N",
+      "version": "v4.0.1"
+    },
+    {
+      "name": "O",
+      "version": "v1.3.1"
+    }
+  ]
+}
