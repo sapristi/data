@@ -2,20 +2,12 @@
   "name": "C",
   "versions": [
     {
-      "version": [
-        0,
-        4,
-        1
-      ],
-      "href": "./C/(0, 4, 1).json"
+      "version": "v0.4.1",
+      "href": "./C/v0.4.1.json"
     },
     {
-      "version": [
-        0,
-        1,
-        2
-      ],
-      "href": "./C/(0, 1, 2).json"
+      "version": "v0.1.2",
+      "href": "./C/v0.1.2.json"
     }
   ]
 }

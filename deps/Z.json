@@ -2,20 +2,12 @@
   "name": "Z",
   "versions": [
     {
-      "version": [
-        1,
-        1,
-        2
-      ],
-      "href": "./Z/(1, 1, 2).json"
+      "version": "v1.1.2",
+      "href": "./Z/v1.1.2.json"
     },
     {
-      "version": [
-        2,
-        3,
-        1
-      ],
-      "href": "./Z/(2, 3, 1).json"
+      "version": "v2.3.1",
+      "href": "./Z/v2.3.1.json"
     }
   ]
 }

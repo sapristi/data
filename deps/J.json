@@ -2,20 +2,12 @@
   "name": "J",
   "versions": [
     {
-      "version": [
-        2,
-        1,
-        0
-      ],
-      "href": "./J/(2, 1, 0).json"
+      "version": "v2.1.0",
+      "href": "./J/v2.1.0.json"
     },
     {
-      "version": [
-        0,
-        2,
-        0
-      ],
-      "href": "./J/(0, 2, 0).json"
+      "version": "v0.2.0",
+      "href": "./J/v0.2.0.json"
     }
   ]
 }

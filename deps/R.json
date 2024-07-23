@@ -2,20 +2,12 @@
   "name": "R",
   "versions": [
     {
-      "version": [
-        1,
-        1,
-        0
-      ],
-      "href": "./R/(1, 1, 0).json"
+      "version": "v1.1.0",
+      "href": "./R/v1.1.0.json"
     },
     {
-      "version": [
-        0,
-        0,
-        2
-      ],
-      "href": "./R/(0, 0, 2).json"
+      "version": "v0.0.2",
+      "href": "./R/v0.0.2.json"
     }
   ]
 }
